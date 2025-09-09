@@ -8,10 +8,7 @@ function greetUser(name, age) {
 
 let message = greetUser(name, age);
 
-console.log(
-    "%c" + message,
-    "color: #5283bf; font-style: italic; font-weight: bold;"
-);
+console.log("%c" + message,"color: #5283bf; font-style: italic; font-weight: bold;");
 
 //Activity 2 and 3
 function getRandomColor() {
