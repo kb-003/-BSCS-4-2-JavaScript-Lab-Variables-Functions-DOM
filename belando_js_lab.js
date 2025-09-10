@@ -1,6 +1,6 @@
 //Activity 1: Variables and Functions
-let name = "Ailen";
-let age = 30;
+let name = "Kyla";
+let age = 21;
 
 function greetUser(name, age) {
     return `Hello, I am ${name} and I am ${age} years old.`;
